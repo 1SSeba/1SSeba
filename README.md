@@ -42,11 +42,5 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/1sseba/1sseba/output/snake.svg" alt="Snake animation" />
-
-###
 [![Discord Presence](https://lanyard.cnrad.dev/api/455811415949705228)](https://discord.com/users/455811415949705228)
