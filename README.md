@@ -23,6 +23,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1SSeba&theme=dark&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=1SSeba&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=1SSeba&icon=5&color=12)](https://github.com/1SSeba)
 
 
