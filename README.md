@@ -2,10 +2,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif"  />
 
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
+# Sebastian Cruz:
 [![Discord Presence](https://lanyard.cnrad.dev/api/455811415949705228)](https://discord.com/users/455811415949705228)
 
 
