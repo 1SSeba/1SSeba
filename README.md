@@ -23,8 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img src="https://www.svgrepo.com/show/373446/astro.svg" height="30" alt="Astro logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/373446/astro.svg" height="30" alt="Astro logo"  />
 </div>
 
 ###
