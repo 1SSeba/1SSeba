@@ -2,7 +2,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif"  />
 
 
-# Sebastian Cruz:
+# 🍀 SSeba:
 [![Discord Presence](https://lanyard.cnrad.dev/api/455811415949705228)](https://discord.com/users/455811415949705228)
 
 
