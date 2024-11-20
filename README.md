@@ -6,9 +6,7 @@
 
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/sseb4z) [![Twitch](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)](https://twitch.tv/sseb4z) 
-[![X](https://img.shields.io/static/v1?message=X&logo=X&label=&color=000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/sseb4z)
+## 🌐 Contact:
 [![Mail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:sebastian.cruzd@outlook.com)
 
 # 📊 GitHub Stats:
