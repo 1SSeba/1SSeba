@@ -6,8 +6,7 @@
 
 
 
-## 🌐 Contact:
-[![Mail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:sebastian.cruzd@outlook.com)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1SSeba&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
@@ -18,4 +17,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=1SSeba&icon=5&color=12)](https://github.com/1SSeba)
 
-
+## 🌐 Contact:
+[![Mail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:sebastian.cruzd@outlook.com)
